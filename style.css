@@ -1,0 +1,58 @@
+.bck{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(to left, orange, red);
+    color:white
+}
+.land{
+    display: flex;
+    align-items: center;
+    color: black;
+}
+h5{
+    margin-right: 15px;
+}
+
+.bt{
+    border-radius: 10px;
+    border: none;
+    padding: 10px 5px;
+}
+.hd{
+    display: flex; justify-content: space-between;
+
+}
+.img{
+ width: 20px;
+ height: 20px;
+}
+.mb{
+    color: white;
+}
+.btn{
+    border-radius: 15px;
+    font-size: 15px;
+    border: none;
+    padding: 10px 5px;
+}
+.bz{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-evenly;
+    
+}
+p{
+    font-size: 30px;
+}
+h2{
+    font-size: 50px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+.visitt:visited{
+    color: red;
+}
+ 
+
